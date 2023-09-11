@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.wrapper {
+  min-height: 100vh;
+  background: linear-gradient(rgb(255, 187, 0), rgb(255, 233, 135));
+}
+
+/* .task-box {
+  border-style: solid 10px;
+  box-shadow: 3px;
+  padding: 4rem;
+  /* background: red; */
+/* display: flex;
+  margin: 0 6rem;
+  border-radius: 10px;
+  border: 4px;
+*/
+*/
+
+
+/* .table .table-striped{
+    background: transparent;
+} */
+
+
+.table tr td {
+  background: transparent;
+}
